@@ -1,0 +1,57 @@
+.ticket {
+  background-color: #fff;
+  border: 3px solid #e5e5e5;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 10px;
+}
+p,
+h4 {
+  margin: 0;
+}
+.cardheading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #8d8c8c;
+  margin-left: 5px;
+}
+.icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+.profileheading {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  border-radius: 100%;
+}
+.small {
+  height: 15px;
+}
+.cardfooter {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 5px 0;
+}
+.featurerequest {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  padding: 0 2px;
+  border-radius: 5px;
+  border: 2px solid #e5e5e5;
+}
+.priority {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin: 0 5px;
+  border: 2px solid #e5e5e5;
+  border-radius: 5px;
+}
+.title {
+  margin: 10px 5px;
+}

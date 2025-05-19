@@ -5,6 +5,7 @@ import DataProcessing from "./components/DataProcessing";
 import { useState } from "react";
 
 function App() {
+  // Yo whats up!!
   const [modelstate, setmodelstate] = useState(false);
   const [orderedGroupedData, setorderedGroupedData] = useState("");
   const [groupby, setgroupby] = useState(
